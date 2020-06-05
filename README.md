@@ -1,7 +1,7 @@
 # MyCourse-30DaysofKotlin
 This project is about 30 Days Coding Program By Google on Kotlin.
 
-My Course is a android application that consist of several programming languages and for each programming language a description about the language is included and online tutorial websites and resources are added.
+My Course is a android application that consist of several programming languages and for each programming language online tutorial websites and resources are added for easy access.
 
 Concepts used:
 
