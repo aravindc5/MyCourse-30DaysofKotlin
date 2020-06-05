@@ -12,12 +12,11 @@ My Course is a android application that consist of several programming languages
 
 **1)Data Classes:**
 
-Data Classes are used to store data in a structured manner, so in this project i have used data classes for storing description,and contents of each language.
+Kotlin has a better solution for classes that are used to hold data/state. It’s called a Data Class. A Data Class is like a regular class but with some additional functionalities. So in this project data classes are used for storing description,and contents of each language.
 
 **2)Inheritance:**
 
 RecyclerView is used to display the contents of each language, Adapter is implemented using Inheritance concept which reduces the boiler plate code.
 
 **3)Lambdas:**
-
-To set ranking of each programming language lamda expression is used.
+Lambdas Expressions are essentially anonymous functions that we can treat as values.To set ranking of each programming language lamda expression is used.
