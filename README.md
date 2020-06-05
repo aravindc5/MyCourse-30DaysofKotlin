@@ -15,4 +15,4 @@ RecyclerView is used to display the contents of each language, Adapter is implem
 
 3)Lambdas:
 
-To set ranking of each programming language lamda expression is used, instead of writting separate functions.
+To set ranking of each programming language lamda expression is used.
